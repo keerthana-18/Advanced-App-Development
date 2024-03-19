@@ -1,0 +1,118 @@
+.page-container {
+    height: 119vh; /* Ensure full viewport height */
+    width: 100vw; /* Ensure full viewport width */
+    background-image: url("https://i.guim.co.uk/img/media/d0105731685e5b2b3daecf2fa00c9affaba832f1/0_0_2560_1536/master/2560.jpg?width=1200&quality=85&auto=format&fit=max&s=09bb9eec5c28fc3a4b7e9a4006922d1e");
+    background-repeat: no-repeat;
+    margin-left: 0%;
+    margin-top: -5%;
+    background-size: cover;
+    
+  }
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh; 
+    margin: 0;
+    padding: 0;
+  }
+  .form-container {
+    position: absolute;
+    background-image: url("https://cdn.cherishx.com/uploads/1687940268_small.jpg");
+    background-repeat: no-repeat;
+    flex: 1;
+    padding: 20px;
+    background-color:#eff1f1;
+   
+    border-radius: 20px; /* Adjust border radius as needed */
+    height: 600px;
+    width: 770px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    background-size: 400px 700px;
+    margin-top: 290px;
+    
+  }
+  
+  .login-form {
+    display: flex;
+    flex-direction: column;
+    margin-right:-14px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .input-field {
+    padding: 20px; /* Adjust padding as needed */
+    border: 1px solid #ccc;
+    border-radius: 45px; /* Adjust border radius as needed */
+    width: 270px;
+    font-size: 20px;
+  }
+  
+  .submit-button {
+    padding: 10px 20px; /* Adjust padding as needed */
+    background-color: #DB8780;
+    color: white;
+    border: none;
+    border-radius: 45px; /* Adjust border radius as needed */
+    cursor: pointer;
+    width: 150px;
+    margin-left: 20px;
+    font-size: 25px;
+  }
+  
+  .submit-button1 {
+    padding: 10px 20px; /* Adjust padding as needed */
+    background-color: #DB8780;
+    color: white;
+    border: none;
+    border-radius: 45px; /* Adjust border radius as needed */
+    cursor: pointer;
+    width: 150px;
+    margin-left: 110px;
+    font-size: 30px;
+  }
+  
+  .submit-button:hover {
+    background-color: pink;
+  }
+  
+  a {
+    color: #007bff;
+    text-decoration: none;
+    font-size: 24px;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .p1 {
+    font-size: 24px;
+  }
+  
+  .h1{
+    font-size: 45px;
+   
+  }
+  
+  .input-icon {
+    position: relative;
+  }
+  
+  .icon {
+    position: absolute;
+    top: 50%;
+    left: 20px; /* Adjust the left position of the icon */
+    transform: translateY(-50%);
+    pointer-events: none; /* Ensure icon doesn't interfere with input field */
+    font-size: 35px;
+  }
+  
+  .input-field {
+    padding-left: 60px; /* Adjust the padding to accommodate the icon */
+  }
