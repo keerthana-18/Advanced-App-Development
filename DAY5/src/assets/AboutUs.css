@@ -1,0 +1,51 @@
+.class{
+    position: absolute;
+    background-color: #E9E2F3;
+    height: 900px;
+    width: 1939px;
+    margin-left: -1%;
+    margin-top: 14%;
+}
+.what{
+    position: absolute;
+    font-weight: 100;
+    font-size: 2.5rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 41%;
+    margin-top: 6%;
+}
+.creating{
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 41.5%;
+    font-size: 1.5rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.fun{
+    position: absolute;
+    font-weight: 90;
+    margin-top: 52.5%;
+    font-size: 2.5rem;
+    margin-left: 60%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.uss{
+    position: absolute;
+    height: 850px;
+    width:640px; 
+    margin-top: 14%;
+    margin-left: 1.5%;
+}
+.abtuspara{
+    text-indent: 40px;
+    position: absolute;
+    margin-top:17.6% ;
+    margin-left: 43%;
+    font-size: 1.40rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 30px;
+}
+.foots{
+   
+    margin-top: -31.2%;
+}
