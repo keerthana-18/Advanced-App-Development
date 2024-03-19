@@ -1,0 +1,64 @@
+.cnt{
+    position: absolute;
+    margin-top: 77.5%;
+    font-size: 2.1rem;
+    margin-left: 45%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline;
+    color: black;
+}
+.contactpara{
+    position: absolute;
+    color: #000;
+   margin-top: 82%;
+    margin-left: 4%;
+    font-size: 1.4rem;
+    line-height: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.insta{
+    position: absolute;
+    color:red;
+   margin-top: 88%;
+    margin-left: 45%;
+    font-size: 2.2rem;
+}
+.instaid{
+    position: absolute;
+    color:#000;
+    font-size: 1.5rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 88%;
+    margin-left: 47.5%;
+}
+.gmail{
+    position: absolute;
+    color:#000;
+    margin-top: 91%;
+    font-size: 2.2rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 45%;
+}
+.gmailid{
+    position: absolute;
+    color:#000;
+    font-size: 1.5rem;
+    margin-top: 91%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 47.5%;
+}
+.phone{
+    position: absolute;
+    color:blue;
+    margin-top: 94%;
+    font-size: 2.1rem;
+    margin-left: 45.2%;
+}
+.phoneid{
+    position: absolute;
+    color:#000;
+    font-size: 1.4rem;
+    margin-top: 94%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 48%;
+}
